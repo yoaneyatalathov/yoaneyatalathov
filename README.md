@@ -1,40 +1,49 @@
-## 👋 Hi there!
+# Hi there, I'm Muhammad Yoane Yatalathov 👋
 
-I'm **Muhammad Yoane Yatalathov**.
+## 🛡️ About Me
 
-A Computer Science graduate and Certified SOC Analyst (CSA) with 10+ years of experience in Electrical & Instrumentation, currently transitioning into Cybersecurity.
+I'm an **EC-Council Certified SOC Analyst (CSA)** and a **Computer Science graduate** with more than 10 years of professional experience as an Electrical & Instrumentation Technician. Currently, I am transitioning into Cybersecurity with a focus on **Security Operations Center (SOC)** and **Threat Detection**.
 
-I enjoy building hands-on cybersecurity projects focused on Security Operations Center (SOC), SIEM, threat detection, and incident response.
+I enjoy building hands-on cybersecurity projects that involve SIEM implementation, security monitoring, log analysis, and incident response.
 
 ---
 
-## 🛡️ Areas of Interest
+## 🎯 Current Focus
 
 - Security Operations Center (SOC)
-- SIEM (Splunk Enterprise)
+- Splunk Enterprise (SIEM)
 - Threat Detection
+- Security Monitoring
 - Incident Response
-- Windows Event Log Analysis
-- Apache Log Analysis
-- Network Security
-- Threat Hunting
-
----
-
-## 🔨 Hands-on Projects
-
-- SOC Threat Detection using Splunk Enterprise
-- Port Scan Detection
-- SQL Injection Detection
-- Incident Response Simulation
 - Windows Security Log Analysis
-- Apache Access Log Analysis
+- Web Application Security
 
 ---
 
-## 📜 Certifications
+## 🚀 Featured Project
 
-- EC-Council Certified SOC Analyst (CSA v2)
+### 🛡️ SOC Threat Detection & Incident Response using Splunk Enterprise
+
+An end-to-end SOC implementation using Splunk Enterprise.
+
+Features:
+
+- 🔍 Port Scan Detection
+- 💉 SQL Injection Detection
+- 📊 Dashboard Monitoring
+- 🚨 Automated Alerts
+- 🛡️ Incident Response
+- 📑 SPL Detection Rules
+
+👉 Repository:
+
+https://github.com/yoaneyatalathov/SOC-Threat-Detection-using-Splunk-Enterprise
+
+---
+
+## 🏆 Certifications
+
+- 🛡️ EC-Council Certified SOC Analyst (CSA)
 
 ---
 
@@ -44,12 +53,35 @@ Bachelor of Computer Science (S.Kom)
 
 Universitas Bina Bangsa
 
-GPA: 3.76 / 4.00
+GPA: **3.76 / 4.00**
 
 ---
 
+## 💻 Technologies
+
+- Splunk Enterprise
+- Splunk Universal Forwarder
+- Windows Security Log
+- Apache Access Log
+- Nmap
+- Kali Linux
+- DVWA
+- Wireshark
+- Linux
+- Windows
+
+---
+
+## 📫 Contact
+
 📍 Serang, Banten, Indonesia
 
-📫 Email: muhyatalathov@gmail.com
+📧 Email: **muhyatalathov@gmail.com**
 
-🔗 LinkedIn: [...](https://www.linkedin.com/in/yoane-yatalathov/)
+💼 LinkedIn:
+
+https://linkedin.com/in/yoane-yatalathov
+
+---
+
+⭐ Thanks for visiting my profile!
