@@ -1,37 +1,55 @@
-# Hi there! 👋
+## 👋 Hi there!
 
-My name is **Muhammad Yoane Yatalathov**.  
-I’m a **Computer Science graduate (S.Kom)** and a career switcher from **Electrical & Instrumentation** to **Cybersecurity**.
+I'm **Muhammad Yoane Yatalathov**.
 
-🎯 Currently focusing on:
-- Cybersecurity fundamentals (Threats, Vulnerabilities, Risk)
-- Networking fundamentals (TCP/IP, DNS, DHCP, NAT, OSI model)
-- Operating systems basics (Windows / Linux)
-- Learning security tools: **Wireshark, Nmap, Kali Linux**
+A Computer Science graduate and Certified SOC Analyst (CSA) with 10+ years of experience in Electrical & Instrumentation, currently transitioning into Cybersecurity.
 
-📍 Based in **Serang, Banten, Indonesia**  
-🔗 Connect with me on LinkedIn:  
-[linkedin.com/in/yoane-yatalathov](https://linkedin.com/in/yoane-yatalathov/)
+I enjoy building hands-on cybersecurity projects focused on Security Operations Center (SOC), SIEM, threat detection, and incident response.
 
 ---
 
-## 📌 About Me
-- 🎓 **Bachelor of Computer Science (S.Kom)** — Universitas Bina Bangsa (Graduation: Oct 2025, GPA 3.76/4.00)
-- 🧰 10+ years experience as **Electrical & Instrument Technician**
-- 🚀 Preparing for entry-level opportunities in **Cybersecurity / Security Operations**
+## 🛡️ Areas of Interest
+
+- Security Operations Center (SOC)
+- SIEM (Splunk Enterprise)
+- Threat Detection
+- Incident Response
+- Windows Event Log Analysis
+- Apache Log Analysis
+- Network Security
+- Threat Hunting
 
 ---
 
-## 🧩 GitHub Statistics
-<p align="left">
-  <a href="https://github.com/yoaneyatalathov">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yoaneyatalathov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yoaneyatalathov&layout=compact&theme=algolia" />
-  </a>
-</p>
+## 🔨 Hands-on Projects
+
+- SOC Threat Detection using Splunk Enterprise
+- Port Scan Detection
+- SQL Injection Detection
+- Incident Response Simulation
+- Windows Security Log Analysis
+- Apache Access Log Analysis
 
 ---
 
-## 📫 Contact
-- Email: **muhyatalathov@gmail.com**
-- LinkedIn: [yoane-yatalathov](https://linkedin.com/in/yoane-yatalathov/)
+## 📜 Certifications
+
+- EC-Council Certified SOC Analyst (CSA v2)
+
+---
+
+## 🎓 Education
+
+Bachelor of Computer Science (S.Kom)
+
+Universitas Bina Bangsa
+
+GPA: 3.76 / 4.00
+
+---
+
+📍 Serang, Banten, Indonesia
+
+📫 Email: ...
+
+🔗 LinkedIn: ...
