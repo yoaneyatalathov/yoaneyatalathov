@@ -50,6 +50,6 @@ GPA: 3.76 / 4.00
 
 📍 Serang, Banten, Indonesia
 
-📫 Email: ...
+📫 Email: muhyatalathov@gmail.com
 
-🔗 LinkedIn: ...
+🔗 LinkedIn: [...](https://www.linkedin.com/in/yoane-yatalathov/)
